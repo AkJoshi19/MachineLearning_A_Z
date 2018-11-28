@@ -1,6 +1,6 @@
-# MachineLearning_A_Z
+# Linear Regression
 
-- Linear Regression Model Representation
+-Linear Regression Model Representation
 Linear regression is an attractive model because the representation is so simple.
 
 The representation is a linear equation that combines a specific set of input values (x) the solution to which is the predicted output for that set of input values (y). As such, both the input values (x) and the output value are numeric.
@@ -20,6 +20,7 @@ When a coefficient becomes zero, it effectively removes the influence of the inp
 
 
 ###LinearRegression HelpFull Topics
+
 - [Basics](https://en.wikipedia.org/wiki/Linear_regression)
 - [Link1](https://medium.com/@amarbudhiraja/ml-101-linear-regression-tutorial-1e40e29f1934)
 
