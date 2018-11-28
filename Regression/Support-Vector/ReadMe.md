@@ -10,7 +10,7 @@ Suggestion are welcome.
 
 
 ## Screenshots
-[<img src="https://raw.githubusercontent.com/AkJoshi19/MachineLearning_A_Z/master/Regression/Polynomial-Regression/PolyNomial.png" width=400>]
+[<img src="https://raw.githubusercontent.com/AkJoshi19/MachineLearning_A_Z/master/Regression/Support-Vector/Svr_preview.png" width=400>]
 
 
 
