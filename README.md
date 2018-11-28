@@ -4,8 +4,13 @@ The respository is for Machine learning basiscs in 2 months
 Please read the topic in this order
 
 # 1. Regression
+ 
+ - a) SimpleLinearRegression
+ - b) Multiple-Linear-Regression
+ - c) Polynomial-Regression
+ - d) Support-Vector
 
-- A basic introduction of MachineLearning, LinearRegression
+
 
 
 This Course is updating every day.
