@@ -8,3 +8,7 @@ Please read the topic in this order
 - A basic introduction of MachineLearning, LinearRegression
 
 
+This Course is updating every day.
+
+Stay tuned for more updated
+
