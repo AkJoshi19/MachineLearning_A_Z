@@ -11,7 +11,7 @@ Suggestion are welcome.
 
 
 ## Screenshots
-[<img src="https://github.com/AkJoshi19/MachineLearning_A_Z/blob/master/SimpleLinearRegression/Preview.png" width=400>]
+[<img src="https://raw.githubusercontent.com/AkJoshi19/MachineLearning_A_Z/master/Regression/SimpleLinearRegression/Solution1/Preview.png" width=400>]
 
 
 
