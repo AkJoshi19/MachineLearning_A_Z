@@ -1,5 +1,5 @@
 # MachineLearning_A_Z
-The respository is for Machine learning basiscs in 2 months
+The respository is for Machine learning basiscs.
 
 Please read the topic in this order
 
