@@ -5,21 +5,21 @@ Please read the topic in this order
 
 # 1. Regression
  
-  a) SimpleLinearRegression
-  b) Multiple-Linear-Regression
-  c) Polynomial-Regression
-  d) Support-Vector-Regression
-  e) Decision Tree Regression
-  f) Random Forest Regression
+  - SimpleLinearRegression
+  - Multiple-Linear-Regression
+  - Polynomial-Regression
+  - Support-Vector-Regression
+  - Decision Tree Regression
+  - Random Forest Regression
  
  
 # 2. Classification
  
-  a) Logistic Regression
-  b) K-Nearest Neighbors (K-NN)
-  c) Support Vector Machine (SVM)
-  d) Kernel SVM
-  e) Naive Bayes
+  - Logistic Regression
+  - K-Nearest Neighbors (K-NN)
+  - Support Vector Machine (SVM)
+  - Kernel SVM
+  - Naive Bayes
 
 
 This Course is updating every day.
