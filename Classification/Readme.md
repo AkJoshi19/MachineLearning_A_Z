@@ -3,7 +3,7 @@ The respository is for Machine learning basiscs.
 
 Please read the topic in this order
 
-# 1. Classification
+# Classification
  
   - Logistic Regression
   - K-Nearest Neighbors (K-NN)
