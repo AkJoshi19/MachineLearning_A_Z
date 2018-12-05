@@ -1,6 +1,6 @@
 Please read the topic in this order
 
-# 1. Regression
+#  Regression
  
   - SimpleLinearRegression
   - Multiple-Linear-Regression
