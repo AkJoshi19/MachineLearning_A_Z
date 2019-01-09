@@ -22,7 +22,17 @@ Please read the topic in this order
   - Naive Bayes
 
 
+# 3. Clustering
+ 
+  - K-Means Clustering
+  - Hierarchical Clustering
+
+
+
+# Note
+
 This Course is updating every day.
 
 Stay tuned for more updated
 
+Contributors
