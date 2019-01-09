@@ -35,4 +35,4 @@ This Course is updating every day.
 
 Stay tuned for more updated
 
-Contributors
+Contributors are welocme.
